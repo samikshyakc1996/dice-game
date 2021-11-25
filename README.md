@@ -5,11 +5,12 @@
 - Clone the new repository to your local machine using `git clone {url}`
 
 ## Steps
-1. Complete the steps in the HTML document to build a prototype interface for a dice game
-2. Call `getRandomDiceRoll()` and store the result as a variable named `diceRoll`
-3. Update user interface (`document`), showing the dice face (svg image) that matches the roll number
-4. Use `diceRoll` to update the label "You rolled: #" (replacing # with the roll)
-5. Wrap the dice roll procedure in a function named `rollTheDice()`, call it from the `console` to test
+1. Complete the steps in the HTML document to build a prototype interface for a dice game 
+	- See the HTML file for an example writtin within a comment block
+3. Call `getRandomDiceRoll()` and store the result as a variable named `diceRoll`
+4. Update user interface (`document`), showing the dice face (svg image) that matches the roll number
+5. Use `diceRoll` to update the label "You rolled: #" (replacing # with the roll)
+6. Wrap the dice roll procedure in a function named `rollTheDice()`, call it from the `console` to test
 
 ## Tips
 - Before starting, consider using the browser's developer tools to prototype a solution manually
