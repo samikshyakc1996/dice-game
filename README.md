@@ -6,7 +6,7 @@
 
 ## Steps
 1. Complete the steps in the HTML document to build a prototype interface for a dice game 
-	- See the HTML file for an example writtin within a comment block
+	- See [index.html] for an example interface written within a comment block
 3. Call `getRandomDiceRoll()` and store the result as a variable named `diceRoll`
 4. Update user interface (`document`), showing the dice face (svg image) that matches the roll number
 5. Use `diceRoll` to update the label "You rolled: #" (replacing # with the roll)
