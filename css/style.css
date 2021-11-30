@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  font: 2em system-ui;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.dice {
+  border: 3px solid black;
+}
